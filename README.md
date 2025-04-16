@@ -1,4 +1,4 @@
-# Disciplina: Desenvolvimento Ágil (2025/1)
+# SprintX
 
 ## Descrição do Projeto
 
